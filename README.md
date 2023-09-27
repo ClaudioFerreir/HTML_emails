@@ -1,1 +1,1 @@
-# HTML_emails
+# Building emails with HTML
